@@ -31,3 +31,5 @@ new BeanPropertyRowMapper(User.class)
 }
 ```
 
+###数据库
+采用mysql，连接在config.properties中，sql在spring-jdbc.sql中
